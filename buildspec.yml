@@ -7,6 +7,6 @@ phases:
       - dotnet build
 artifacts:
   files:
-     - '*'
-     discard-paths: yes
+    - start.cs
+    discard-paths: yes
     - bin/Debug/netcoreapp1.0/*
