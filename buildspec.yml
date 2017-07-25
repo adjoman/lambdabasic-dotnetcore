@@ -8,5 +8,3 @@ phases:
 artifacts:
   files:
   - start.cs
-    - bin/Debug/netcoreapp1.0/*
-    discard-paths: yes
